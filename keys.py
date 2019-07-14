@@ -3,7 +3,7 @@ import ecdsa
 import binascii
 import hashlib, base58
 
-"""All Keys generated will be compressed by default"""
+"""All keys generated will be compressed by default"""
 class KeyGen:
 	def __init__(self):
 		self.CURVE_ORDER = int('FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEBAAEDCE6AF48A03BBFD25E8CD0364141', 16) # The order of secp256k1

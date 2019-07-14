@@ -1,0 +1,1 @@
+"""Will contain functionality for a bitcoin wallet"""
