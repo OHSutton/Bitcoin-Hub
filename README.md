@@ -9,7 +9,7 @@ This is a work in progress, so here is a rough outline of the final project
 - Bitcoin Wallet (TODO)
 	- Current tool I'm working on at the moment.
 - Bitcoin Miner (TODO)
-- Transaction Explorer (Not sure about this one since the user may have to run a full node to get this functionality)
+- Transaction Explorer (Not sure about this one since the user may have to run a full node to get this functionality) (TODO)
 
 ## Features I may include
 - Coloured coins support
