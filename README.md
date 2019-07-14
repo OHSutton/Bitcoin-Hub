@@ -1,2 +1,2 @@
 # Bitcoin-Hub
-A project the contains all necessary tools to interact with the bitcoin network
+A project that contains all necessary tools to interact with the bitcoin network
