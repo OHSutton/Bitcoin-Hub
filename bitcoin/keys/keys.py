@@ -5,11 +5,7 @@ import secrets
 import ecdsa
 import hashlib
 from ..core import base58
-from ..core.utilities import hash160
-
-
-CURVE_ORDER = int('FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEBAAEDCE6AF48A03BBFD25E8CD0364141', 16) # The order of secp256k1
-
+from ..core.utilities import hash160, CURVE_ORDER
 
 def encode(payload, type):
 	"""

@@ -1,5 +1,8 @@
 import hashlib
 
+# Constant
+CURVE_ORDER = int('FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEBAAEDCE6AF48A03BBFD25E8CD0364141', 16) # The order of secp256k1
+
 def PBKDF2(self, mnemonic, salt=""):
         """
         Uses the PBKDF2 key-stretching function to stretch the mnemonic to a 512-bit value.  The use

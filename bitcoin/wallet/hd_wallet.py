@@ -1,7 +1,6 @@
 """Will contain functionality for a bitcoin wallet"""
 import secrets
-from .core.utilities import PBKDF2
-from .keys.bip32 import KeyNode
+from ..core.utilities import PBKDF2
 from hashlib import sha256
 
 
