@@ -1,4 +1,8 @@
 # bitcoin-pytools
+
+-- On hiatus until the bittorrent project is complete --
+
+
 An ongoing project that will contain all necessary tools to interact with the bitcoin network.  This project is purely intended to extend my knowledge about Bitcoin and cryptocurrency, as well as provide a reference implementation for each of the tools it contains. 
 
 ## Tools it contains
